@@ -1,0 +1,26 @@
+C:\Users\c.pietquin\Documents\SPBi-DemoAsp-master\ToolBox\bin\Debug\netstandard2.0\ToolBox.deps.json
+C:\Users\c.pietquin\Documents\SPBi-DemoAsp-master\ToolBox\bin\Debug\netstandard2.0\ToolBox.dll
+C:\Users\c.pietquin\Documents\SPBi-DemoAsp-master\ToolBox\bin\Debug\netstandard2.0\ToolBox.pdb
+C:\Users\c.pietquin\Documents\SPBi-DemoAsp-master\ToolBox\obj\Debug\netstandard2.0\ToolBox.csprojAssemblyReference.cache
+C:\Users\c.pietquin\Documents\SPBi-DemoAsp-master\ToolBox\obj\Debug\netstandard2.0\ToolBox.AssemblyInfoInputs.cache
+C:\Users\c.pietquin\Documents\SPBi-DemoAsp-master\ToolBox\obj\Debug\netstandard2.0\ToolBox.AssemblyInfo.cs
+C:\Users\c.pietquin\Documents\SPBi-DemoAsp-master\ToolBox\obj\Debug\netstandard2.0\ToolBox.dll
+C:\Users\c.pietquin\Documents\SPBi-DemoAsp-master\ToolBox\obj\Debug\netstandard2.0\ToolBox.pdb
+D:\Formation Dev .Net\Laboratoire de programmation .NET\CrowdFunding 2.0\ToolBox\bin\Debug\netstandard2.0\ToolBox.deps.json
+D:\Formation Dev .Net\Laboratoire de programmation .NET\CrowdFunding 2.0\ToolBox\bin\Debug\netstandard2.0\ToolBox.dll
+D:\Formation Dev .Net\Laboratoire de programmation .NET\CrowdFunding 2.0\ToolBox\bin\Debug\netstandard2.0\ToolBox.pdb
+D:\Formation Dev .Net\Laboratoire de programmation .NET\CrowdFunding 2.0\ToolBox\obj\Debug\netstandard2.0\ToolBox.csprojAssemblyReference.cache
+D:\Formation Dev .Net\Laboratoire de programmation .NET\CrowdFunding 2.0\ToolBox\obj\Debug\netstandard2.0\ToolBox.AssemblyInfoInputs.cache
+D:\Formation Dev .Net\Laboratoire de programmation .NET\CrowdFunding 2.0\ToolBox\obj\Debug\netstandard2.0\ToolBox.AssemblyInfo.cs
+D:\Formation Dev .Net\Laboratoire de programmation .NET\CrowdFunding 2.0\ToolBox\obj\Debug\netstandard2.0\ToolBox.csproj.CoreCompileInputs.cache
+D:\Formation Dev .Net\Laboratoire de programmation .NET\CrowdFunding 2.0\ToolBox\obj\Debug\netstandard2.0\ToolBox.dll
+D:\Formation Dev .Net\Laboratoire de programmation .NET\CrowdFunding 2.0\ToolBox\obj\Debug\netstandard2.0\ToolBox.pdb
+C:\Users\cpiet\source\repos\Warehouse\ToolBox\bin\Debug\netstandard2.0\ToolBox.deps.json
+C:\Users\cpiet\source\repos\Warehouse\ToolBox\bin\Debug\netstandard2.0\ToolBox.dll
+C:\Users\cpiet\source\repos\Warehouse\ToolBox\bin\Debug\netstandard2.0\ToolBox.pdb
+C:\Users\cpiet\source\repos\Warehouse\ToolBox\obj\Debug\netstandard2.0\ToolBox.csprojAssemblyReference.cache
+C:\Users\cpiet\source\repos\Warehouse\ToolBox\obj\Debug\netstandard2.0\ToolBox.AssemblyInfoInputs.cache
+C:\Users\cpiet\source\repos\Warehouse\ToolBox\obj\Debug\netstandard2.0\ToolBox.AssemblyInfo.cs
+C:\Users\cpiet\source\repos\Warehouse\ToolBox\obj\Debug\netstandard2.0\ToolBox.csproj.CoreCompileInputs.cache
+C:\Users\cpiet\source\repos\Warehouse\ToolBox\obj\Debug\netstandard2.0\ToolBox.dll
+C:\Users\cpiet\source\repos\Warehouse\ToolBox\obj\Debug\netstandard2.0\ToolBox.pdb

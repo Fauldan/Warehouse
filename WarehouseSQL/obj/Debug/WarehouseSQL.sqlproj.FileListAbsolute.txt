@@ -1,0 +1,10 @@
+C:\Users\cpiet\source\repos\Warehouse\WarehouseSQL\bin\Debug\WarehouseSQL.dacpac
+C:\Users\cpiet\source\repos\Warehouse\WarehouseSQL\bin\Debug\WarehouseSQL.dll
+C:\Users\cpiet\source\repos\Warehouse\WarehouseSQL\bin\Debug\WarehouseSQL.pdb
+C:\Users\cpiet\source\repos\Warehouse\WarehouseSQL\obj\Debug\WarehouseSQL.sqlprojAssemblyReference.cache
+C:\Users\cpiet\source\repos\Warehouse\WarehouseSQL\obj\Debug\WarehouseSQL.dll
+C:\Users\cpiet\source\repos\Warehouse\WarehouseSQL\obj\Debug\WarehouseSQL.pdb
+C:\Users\cpiet\source\repos\Warehouse\WarehouseSQL\obj\Debug\Model.xml
+C:\Users\cpiet\source\repos\Warehouse\WarehouseSQL\obj\Debug\refactor.xml
+C:\Users\cpiet\source\repos\Warehouse\WarehouseSQL\obj\Debug\postdeploy.sql
+C:\Users\cpiet\source\repos\Warehouse\WarehouseSQL\obj\Debug\predeploy.sql

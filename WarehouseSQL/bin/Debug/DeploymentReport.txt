@@ -1,0 +1,39 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[Adresse] (Table)
+       [dbo].[Article] (Table)
+       [dbo].[Categorie] (Table)
+       [dbo].[Client] (Table)
+       [dbo].[Expedier] (Table)
+       [dbo].[Fournisseur] (Table)
+       [dbo].[Receptionner] (Table)
+       [dbo].[Stocker] (Table)
+       [dbo].[Utilisateur] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[Utilisateur] (Contrainte par défaut)
+       [dbo].[FK_Client_Adresse] (Clé étrangère)
+       [dbo].[FK_Fournisseur_Adresse] (Clé étrangère)
+       [dbo].[FK_Fournisseur_Article] (Clé étrangère)
+       [dbo].[FK_Article_Categorie] (Clé étrangère)
+       [dbo].[FK_Expedier_Article] (Clé étrangère)
+       [dbo].[FK_Expedier_Utilisateur] (Clé étrangère)
+       [dbo].[FK_Expedier_Client] (Clé étrangère)
+       [dbo].[FK_Receptionner_Article] (Clé étrangère)
+       [dbo].[FK_Receptionner_Utilisateur] (Clé étrangère)
+       [dbo].[FK_Stocker_Article] (Clé étrangère)
+       [dbo].[FK_Stocker_Utilisateur] (Clé étrangère)
+       [dbo].[GetPostSalt] (Fonction)
+       [dbo].[GetPreSalt] (Fonction)
+       [dbo].[CheckUser] (Procédure)
+       [dbo].[RegisterUser] (Procédure)
+
+** Actions de support

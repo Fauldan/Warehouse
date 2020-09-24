@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+V1kgoaAcjao7xV2plouLJCjp9qP/sGAM5nfzPYmKqV4gv64jq36VrwYPryx+dFd60Qh6fmzfWJF1ZSYbPs/Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cpiet\\source\\repos\\Warehouse\\ToolBox\\ToolBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

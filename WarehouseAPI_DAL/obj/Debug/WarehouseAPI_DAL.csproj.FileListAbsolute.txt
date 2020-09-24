@@ -1,0 +1,9 @@
+C:\Users\cpiet\source\repos\Warehouse\WarehouseAPI_DAL\obj\Debug\WarehouseAPI_DAL.csprojAssemblyReference.cache
+C:\Users\cpiet\source\repos\Warehouse\WarehouseAPI_DAL\obj\Debug\WarehouseAPI_DAL.csproj.CoreCompileInputs.cache
+C:\Users\cpiet\source\repos\Warehouse\WarehouseAPI_DAL\bin\Debug\WarehouseAPI_DAL.dll
+C:\Users\cpiet\source\repos\Warehouse\WarehouseAPI_DAL\bin\Debug\WarehouseAPI_DAL.pdb
+C:\Users\cpiet\source\repos\Warehouse\WarehouseAPI_DAL\obj\Debug\WarehouseAPI_DAL.csproj.CopyComplete
+C:\Users\cpiet\source\repos\Warehouse\WarehouseAPI_DAL\obj\Debug\WarehouseAPI_DAL.dll
+C:\Users\cpiet\source\repos\Warehouse\WarehouseAPI_DAL\obj\Debug\WarehouseAPI_DAL.pdb
+C:\Users\cpiet\source\repos\Warehouse\WarehouseAPI_DAL\bin\Debug\ToolBox.dll
+C:\Users\cpiet\source\repos\Warehouse\WarehouseAPI_DAL\bin\Debug\ToolBox.pdb
