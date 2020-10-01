@@ -74,6 +74,7 @@ namespace WarehouseAPI_DAL.Mapper
                 Date = (DateTime)Reader[nameof(Expedition.Date)],
                 Quantite = (int)Reader[nameof(Expedition.Quantite)],
                 UtilisateurNom = (string)Reader[nameof(Expedition.UtilisateurNom)],
+                UtilisateurPrenom = (string)Reader[nameof(Expedition.UtilisateurPrenom)],
                 UtilisateurId = (int)Reader[nameof(Expedition.UtilisateurId)],
                 ArticleId = (int)Reader[nameof(Expedition.ArticleId)],
                 ClientId = (int)Reader[nameof(Expedition.ClientId)],

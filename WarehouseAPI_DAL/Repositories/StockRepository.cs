@@ -45,6 +45,12 @@ namespace WarehouseAPI_DAL.Repositories
             Command command = new Command("GetMoveStock_By_ArticleId", true);
             command.AddParameter("ArticleId", id);
             return _connection.ExecuteReader(command, (reader) => reader.ToStock_DAL());
+        }        
+        
+        public IEnumerable<Stock> GetStockInventaire ()
+        {
+            Command command = new Command("GetStockInventaire", true);
+            return _connection.ExecuteReader(command, (reader) => reader.ToStock_DAL());
         }
 
         public int Insert(Stock entity)

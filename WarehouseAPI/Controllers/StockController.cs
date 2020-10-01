@@ -45,6 +45,14 @@ namespace WarehouseAPI.Controllers
         {
             IEnumerable<A.Stock> listMoveStock = _stockRepo.GetMoveStock_By_ArticleId(id).Select(a => a.ToStock_API());
             return listMoveStock;
+        }     
+        
+        [HttpGet]
+        [Route("api/Stock/GetStockInventaire")]
+        public IEnumerable<A.Stock> GetStockInventaire()
+        {
+            IEnumerable<A.Stock> listStockInventaire = _stockRepo.GetStockInventaire().Select(a => a.ToStock_API());
+            return listStockInventaire;
         }
 
         [HttpPut]

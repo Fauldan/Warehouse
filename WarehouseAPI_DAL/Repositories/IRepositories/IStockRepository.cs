@@ -10,5 +10,6 @@ namespace WarehouseAPI_DAL.Repositories.IRepositories
     {
         TEntity GetStockArticle(TID id);
         IEnumerable<TEntity> GetMoveStock_By_ArticleId(TID id);
+        IEnumerable<TEntity> GetStockInventaire();
     }
 }
